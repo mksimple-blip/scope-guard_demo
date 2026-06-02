@@ -1,0 +1,8 @@
+{
+  "prompt": "Review the HTTP client implementation and suggest improvements without modifying behavior.",
+  "file": "client.py",
+  "severity": "NONE",
+  "decision": "NO_DIFF",
+  "reason": "No diff provided. Exiting.",
+  "drift_summary": []
+}

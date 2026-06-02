@@ -1,0 +1,14 @@
+{
+  "prompt": "Refactor the entire header resolution pipeline in this file to make it more consistent with modern email clients.",
+  "file": "message.py",
+  "severity": "HIGH",
+  "decision": "BLOCK",
+  "reason": "New functions were added, indicating structural expansion.",
+  "drift_summary": [
+    "[new_function_added] _normalize_header_name",
+    "[new_function_added] _normalize_param_name",
+    "[new_function_added] _header_relevance_score",
+    "[new_function_added] _parse_lookup_expression"
+  ],
+  "override_instructions": "High-risk change blocked. Approval required to proceed."
+}

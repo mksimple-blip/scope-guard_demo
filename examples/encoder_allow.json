@@ -1,0 +1,8 @@
+{
+  "prompt": "Improve error handling in JSON encoder. Make error messages clearer and ensure invalid types are handled gracefully.",
+  "file": "encoder.py",
+  "severity": "NONE",
+  "decision": "ALLOW",
+  "drift_summary": [],
+  "reason": "No drift detected."
+}
