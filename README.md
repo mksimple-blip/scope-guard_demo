@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-prototype-blue)
+![Version](https://img.shields.io/badge/version-v0.1.0-orange)
+
 # ScopeGuard Demo
 
 **AI writes code. ScopeGuard keeps it aligned.**  
