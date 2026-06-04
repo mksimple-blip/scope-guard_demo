@@ -180,27 +180,3 @@ ScopeGuard verifies whether AI‑generated changes stayed within the intended sc
 
 ---
 
-## ⭐ Maker’s Comment
-
-Hey everyone — I’m Mani 👋
-
-I built ScopeGuard after repeatedly seeing AI assistants modify logic I never asked them to touch.
-
-From helper functions appearing out of nowhere to multi‑file propagation from a one‑line prompt — the patterns were too consistent to ignore.
-
-ScopeGuard isn’t another AI coding assistant.  
-It’s a reviewer for AI‑generated code — focused on whether the change stayed within the intended scope.
-
-I’d love your feedback, ideas, and thoughts on where this should go next.
-
-Thank you for checking it out ❤️
-
----
-
-## ⭐ Call to Action
-
-- Try the demo  
-- Join the early access list  
-- Share your drift examples  
-- Tell me how your team uses AI for coding  
-
